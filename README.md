@@ -1,5 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
+Fullstack Engineer specializing in Frontend Development with React & TypeScript
+5 years building scalable, user-centric applications.
+Obsessed with productivity, efficiency, and making slow developers fast ⚡
+
+Currently working @ [Immfly](https://www.immfly.com/) building offline-capable airline digital systems for millions of passengers.
+
+## In this repo
+- Dotfiles: my configs for programs that I love, to have it everywhere.
+- Coreui: Personal component and helper functions library to be used on all my projects
+- Slopify
 <!--
 **alexdicksonroig/alexdicksonroig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
