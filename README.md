@@ -6,7 +6,7 @@ Obsessed with productivity, efficiency, and making slow developers fast ⚡
 
 Currently working @ [Immfly](https://www.immfly.com/) building offline-capable airline digital systems for millions of passengers.
 
-## In this repo
+## Projects
 - Dotfiles: my configs for programs that I love, to have it everywhere.
 - Coreui: Personal component and helper functions library to be used on all my projects
 - Slopify: Open source fullstack e-commerce template to build Shopify like experiences built by me with my own preferences and technologies.
