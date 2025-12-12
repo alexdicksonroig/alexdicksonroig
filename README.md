@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fullstack Engineer specializing in Frontend Development with React & TypeScript
+I'm Alex, a Fullstack Engineer specializing in Frontend Development with React & TypeScript
 5 years building scalable, user-centric applications.
 Obsessed with productivity, efficiency, and making slow developers fast ⚡
 
