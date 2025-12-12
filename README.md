@@ -9,7 +9,7 @@ Currently working @ [Immfly](https://www.immfly.com/) building offline-capable a
 
 ## Projects
 - [Coreui](https://github.com/alexdicksonroig/coreui): Personal component and helper functions library to be used on all my projects
-- Slopify: Open source fullstack e-commerce template to build Shopify like experiences built by me with my own preferences and technologies.
+- Slopify: Like [Shopify](https://www.shopify.com/es-es) but OSS with React and Python. Open source fullstack e-commerce template to build Shopify like experiences built by me with my own preferences and technologies.
   [Frontend](https://github.com/alexdicksonroig/slopify-frontend) [Backend](https://github.com/alexdicksonroig/slopify-backend)
 - [Dotfiles](https://github.com/alexdicksonroig/.dotfiles): my configs for programs that I love, so I can have them everywhere.
 <!--
